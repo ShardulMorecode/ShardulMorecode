@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shardul
 - 👀 I’m interested in Coding,Anime and Gaming.
-- 🌱 I’m currently learning Javascript, German.
-- 📫 How to reach me Discord:-Shardul More#4385
+- 🌱 I’m currently learning Javascript.
+- 📫 How to reach me Discord:-shardul_0713
 
 <!---
 ShardulMorecode/ShardulMorecode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
